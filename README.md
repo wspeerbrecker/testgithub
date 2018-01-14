@@ -1,2 +1,2 @@
 # testgithub
-used to test the features of github
+This is a repository to practice and test the features of github.
